@@ -1,0 +1,6 @@
+1,how many oceans are present in the world?? 1)7 2)6 3)3 4)1,1
+2,Who is the father of C language? 1)Steve Jobs 2)James Gosling 3)Dennis Ritchie 4)Rasmus Lerdorf,3
+3,What is the result of logical or relational expression in C? 1)True or False 2)0 or 1 3) 0 if an expression is false and any positive number if an expression is true 4)none,2
+4,What is an example of iteration in C? 1)for 2)while 3)do-while 4)all of the mentioned,4
+5,Functions can return enumeration constants in C? 1)true 2)false 3)depends on compiler 4)depends on the standard,1
+

@@ -1,0 +1,30 @@
+1,How many children does a binary tree have? 1) 2 2) any number of children 3) 0 or 1 or 2 4) 0 or 1,3
+2,When a pop() operation is called on an empty queue...  what is the condition called? 1)overflow 2)underflow 3)syntax error 4)garbage Value,2
+3,What are the children for node ‘w’ of a complete-binary tree in an array representation? 1) 2w and 2w+1 2) 2+w and 2-w 3) w+1/2 and w/2 4) w-1/2 and w+1/2,1
+4,Which of the following data structures finds its use in recursion? 1)Stack 2)Arrays 3)Linkedlists 4)BST,1
+5,Value of the postfix expression 6 3 2 4 + - * is 1)-18 2)18 3)20 4)3,1
+6,From following which is not the operation of data structure? 1)operations that manipulate data in some way 2)operations that perform some computation 3)operations that find some errors 4)operation that monitor an object for occurence of controlling event ,3
+7,How can we describe an array in the best possible way?1)The Array shows a hierarchical structure 2)Arrays are immutable 3)Container that stores the elements of similar types 4)The Array is not a data structure,3
+8,How is the 2nd element in an array accessed based on pointer notation? 1)a+2 2)(a+2) 3)*(*a+2) 4)&(a+2),2
+9,Process of inserting an element in stack is called?1) Create 2) Push 3) Evaluation 4) Pop,2
+10,Process of removing an element from stack is called?1) Create 2) Push 3) Evaluation 4) Pop,4
+11,What must be the ideal size of array if the height of tree is l? 1) 2l-1 2) l-1 3) l 4) 2l,1
+12,Entries in a stack are ordered. What is the meaning of this statement?1) A collection of stacks is sortable 2) Stack entries may be compared with the ‘<‘ operation 3) The entries are stored in a linked list 4) There is a Sequential entry that is one by one,4
+13,What is the parent for a node ‘w’ of a complete binary tree in an array representation when w is not 0? 1) floor(w-1/2) 2) ceil(w-1/2) 3) w-1/2 4) w/2,1
+14,What is the time complexity of searching for an element in a circular linked list? 1) O(n) 2)O(nlogn) 3)O(1) 4)O(n2),1
+15,Which of the following application makes use of a circular linked list? 1)Undo operation in a text editor 2)Recursive function calls 3)Allocating CPU to resources 4) Implement Hash Tables,3
+16,What is the best case time complexity of deleting a node in a Singly Linked list? 1)O(n) 2)O(n2) 3)O (nlogn) 4) O(1),4
+17,What does ‘stack overflow’ refer to? 1)accessing item from an undefined stack 2)adding items to a full stack 3)removing items from an empty stack 4)index out of bounds exception,2
+18,Which of the following data structures can be used for parentheses matching? 1)n-ary tree 2)queue 3)stack 4)BST ,3
+19, Minimum number of queues to implement stack is ___________ 1)1 2)2 3)3 4)4,1
+20,What is the worst case time complexity of inserting a node in a doubly linked list? 1)O(nlogn) 2)O(logn) 3) O(n) 4)O(1),3
+21,is c an object oriented language?? 1)yes 2)no 3)none ,2
+22,In a min-heap: 1)  parent nodes have values greater than or equal to their childs 2) - parent nodes have values less than or equal to their childs 3) - both statements are true 4) - both statements are wrong,1
+23,Postfix expression is just a reverse of prefix expression. 1)True 2) False,2
+24,The following formula will produce(Fn = Fn-1 + Fn-2) 1) Armstrong Number 2) Fibonacci Series 3) Euler Number 4) Prime Number,2
+25, Which of the following algorithm is not stable? 1) Bubble Sort 2) Quick Sort 3) Merge Sort 4) Insertion Sort,2
+26, Graph traversal is different from a tree traversal because 1) trees are not connected 2) graphs may have loops 3) trees have root 4) None is true as tree is a subset of graph,3
+27,Which of the below mentioned sorting algorithms are not stable? 1) Selection Sort 2) Bubble Sort 3) Merge Sort 4) Insertion Sort,1
+28,Which of the following is not possible with an array in C programming langauge 1) Declaration 2) Definition 3) Dynamic Allocation 4) Array of strings,3
+29,Recursion uses more memory space than iteration because 1) it uses stack instead of queue 2) every recursive call has to be stored 3) both A & B are true 4) None of the above are true,2
+30,The worst case complexity of binary search matches with  1) interpolation search 2) linear search 3) merge sort 4) none of the above,2

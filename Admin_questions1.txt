@@ -1,0 +1,32 @@
+1,Which of these keywords are used for the block to be examined for exceptions?1) check 2) throw 3) catch 4) try,4
+2, Which of these statements is incorrect about Thread?1) start() method is used to begin execution of the thread 2) run() method is used to begin execution of a thread before start() method in special cases 3) A thread can be formed by implementing Runnable interface only 4) A thread can be formed by a class that extends Thread class,2
+3,Which one of the following is not an access modifier?1) Protected 2) Void 3) Public 4) Private,2
+4,What is the numerical range of a char data type in Java?1) 0 to 256 2) -128 to 127 3) 0 to 65535 4) 0 to 32767,3
+5, Which of these packages contains the exception Stack Overflow in Java? 1) java.io 2) java.system 3) java.lang 4) java.util,3
+6, Which of these statements is incorrect about Thread? 1) start() method is used to begin execution of the thread 2) run() method is used to begin execution of a thread before start() method in special cases 3) A thread can be formed by implementing Runnable interface only 4) A thread can be formed by a class that extends Thread class,2
+7, Which of these keywords are used for the block to be examined for exceptions? 1) check 2) throw 3) catch 4) try,4
+8, Which one of the following is not an access modifier? 1) Protected 2) Void 3) Public 4) Private,2
+9,Which class provides system independent server side implementation? 1) Server 2) ServerReader 3) Socket 4) ServerSocket,4
+10,Which of these is a super class of wrappers Double & Integer? 1) Long 2) Digits 3) Float 4) Number,4
+11,Who invented Java Programming?1) Guido van Rossum 2) James Gosling 3) Dennis Ritchied 4) Bjarne Stroustrup,2
+12,Which statement is true about Java?1) Java is a sequence-dependent programming language 2)Java is a code dependent programming language 3)java is a platform-dependent programming language 4)java is a platform-independent programming language  ,4  
+13, Which component is used to compile debug and execute the java programs?1) JRE 2) JIT 3) JDK 4) JVM,3
+14, Which one of the following is not a Java feature?1) Object-oriented 2) Use of pointers 3) Portable 4) Dynamic and Extensible,2
+15, Which of these cannot be used for a variable name in Java?1) identifier & keyword 2) identifier 3) keyword 4) none of the mentioned,3
+16, What is the extension of java code files?1) .js 2) .txt 3) .class 4) .java,4
+17, Which environment variable is used to set the java path?1) MAVEN_Path 2) JavaPATH 3) JAVA 4) JAVA_HOME,4
+18, Which exception is thrown when java is out of memory?  1) MemoryError 2) OutOfMemoryError 3) MemoryOutOfBoundsException 4) MemoryFullException,2
+19, Which of these are selection statements in Java? 1) break 2) continue 3) for() 4) if(),4
+20, Which of these keywords is used to define interfaces in Java?1) intf 2) Intf 3) interface 4) Interface,3
+21, Which of the following is a superclass of every class in Java?1) ArrayList 2) Abstract class 3) Object class 4) String,3
+22, Which of the below is not a Java Profiler?1) JProfiler 2) Eclipse Profiler 3) JVM 4) JConsole,3
+23, Which of these packages contains the exception Stack Overflow in Java?1) java.io 2) java.system3) java.lang 4) java.util,3
+24, Which of these statements is incorrect about Thread?1) start() method is used to begin execution of the thread 2) run() method is used to begin execution of a thread before start() method in special cases 3) A thread can be formed by implementing Runnable interface only 4) A thread can be formed by a class that extends Thread class,2
+25, Which of these keywords are used for the block to be examined for exceptions?1) check 2) throw 3) catch 4) try,4
+26, Which one of the following is not an access modifier?1) Protected 2) Void 3) Public 4) Private,2
+27, What is the numerical range of a char data type in Java?1) 0 to 256  2) -128 to 1273) 0 to 65535 4) 0 to 32767,3
+28,Which class provides system independent server side implementation?1) Server 2) ServerReader 3) Socket 4) ServerSocket,4
+29, Which of the following is true about servlets? 1) Servlets can use the full functionality of the Java class libraries 2) Servlets execute within the address space of web server 3) Servlets execute within the address space of web server 4) Servlets are platform-independent because they are written in java,2
+30,Which of the following are not Java keywords ?1)double 2)switch 3)then 4)instance0f ,3
+31,is java working??,2
+32,hello,2

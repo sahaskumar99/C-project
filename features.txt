@@ -1,0 +1,41 @@
+ADMIN
+->Admin can update his details after logingin
+->
+
+
+
+USER
+->Depend on the number of teams, the rounds will be done
+-> The questions to the users are randomly generated , every time the team plays the game, questions will be different
+-> To provide equality in the game, lower team no will be considered as prior team, when the teams scored same 
+-> Even one team plays the quiz, team is not considered as winner,round will be performed for that team and if team scores more than score 10, it is declared as winner.
+
+
+
+ Feasibility Study:
+A feasibility study is an assessment of the practicality of a proposed project plan or method.  
+1.Technical Feasibility: Is an assessment to determine if an organisation has the technical resources to meet the project requirements.
+ 
+ Our application is technically feasible since:
+It is built on C with Data Structures which not only meet the project requirements but also enhance the time complexity and make the appication user friendly . 
+Our project can be used when ever user wants to play quiz.Our application is compatible with various OS 
+2.Operational Feasibility: Measure of how well a proposed system solves the problem. 
+
+Our application is operationally feasible since:
+It can operate on systems with different O.S ex: MacOS, Windows, Linux.
+●	It is able to satisfy the given requirements without any external interference.
+●	QUIZ MANAGEMENT SYSTEM  is an interactive system  between mutliple users and admin,it is operationally feasible.
+
+
+3.	Economic Feasibility: It lists out the Cost-Benefit analysis of a system.
+Our application is economically feasible since:
+●	There is  no cost incurred from this system as the only programming langauge is involved in the working
+ process.  
+●	The system has an investment of Rs.0/-  and is made for the benefit of students or institutes.       
+●	However, if the application charges minimal fee, it would still be considered as profit. Thus making this project application economically feasible.
+●	
+
+4.	PROJECT REQUIREMENTS and SPECIFICATIONS:
+  Requirements:
+●	The basic requirements is the entity- Student.
+●	The next requirement is that the questions entered into the system by the admin has to be in appropriate format and details entered by user/admin should be in appropriate form.
